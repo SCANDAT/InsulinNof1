@@ -1,2 +1,2 @@
 # InsulinNof1
- N-of-1-trial of Humalog vs Fiasp
+Analysis of my simple, personal N-of-1 trial comparing Fiasp to Humalog
